@@ -1,4 +1,4 @@
-# Guess The Flag App 🌍🏳️‍🌈
+# Guess The Flag App 🌍🇮🇳
 
 Guess The Flag is an engaging iOS application built using SwiftUI that tests your knowledge of world flags.
 
@@ -27,7 +27,7 @@ Guess The Flag is a fun and educational game designed to challenge your knowledg
 - Wide variety of world flags to guess.
 - Interactive and user-friendly interface.
 - Immediate feedback on your guesses.
-- Educational insights about each country and its flag.
+- Educational insights about each country and its flag (*~soon*).
 
 ## Installation 🛠️
 
@@ -44,7 +44,7 @@ Using Guess The Flag is straightforward:
 1. Launch the Guess The Flag application on your iOS device.
 2. Start guessing flags from the given options.
 3. Receive immediate feedback on your guess.
-4. Learn interesting facts about each country's flag as you play.
+4. Learn interesting facts about each country's flag as you play (*~soon*).
 
 ## Contributing 🤝
 
