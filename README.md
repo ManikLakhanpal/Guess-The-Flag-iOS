@@ -1,6 +1,6 @@
-# WeSplit iOS Application 📱💸
+# Guess The Flag App 🌍🏳️‍🌈
 
-WeSplit is a simple iOS application built using SwiftUI that helps you split bills among friends or colleagues.
+Guess The Flag is an engaging iOS application built using SwiftUI that tests your knowledge of world flags.
 
 ## Table of Contents
 
@@ -15,23 +15,23 @@ WeSplit is a simple iOS application built using SwiftUI that helps you split bil
 
 ## About ℹ️
 
-WeSplit is a user-friendly iOS application designed to simplify the process of splitting bills. Whether you're dining out with friends or organizing a group event, WeSplit allows you to effortlessly divide expenses among participants.
+Guess The Flag is a fun and educational game designed to challenge your knowledge of world flags. Created using SwiftUI for iOS 17 and above, it offers an intuitive and interactive way to learn and recognize flags from different countries.
 
 ## Video Demo 🎥
 
-[![Watch the video](https://i.vimeocdn.com/video/1855462231-13422a125dc3ceaa06458b24de13fd3c4afaeff68b647422a90a3e3dca6df808-d?mw=1920&mh=1080&q=70)](https://vimeo.com/953042815?share=copy#t=0)
+[![Watch the video](https://i.vimeocdn.com/video/1863189436-e108fd3af2bc2a2d64445069cf60fa32b9777639fc0fbd8bc53c7178e72172e2-d?mw=800&mh=1736&q=70)](https://vimeo.com/953042815?share=copy#t=0)
+
 
 ## Features ✨
 
-- Easily enter the total bill amount.
-- Select the number of people sharing the bill.
-- Choose a tip percentage or opt not to tip.
-- Instantly calculate the amount owed by each person.
-- Intuitive and user-friendly interface.
+- Wide variety of world flags to guess.
+- Interactive and user-friendly interface.
+- Immediate feedback on your guesses.
+- Educational insights about each country and its flag.
 
 ## Installation 🛠️
 
-To use WeSplit on your iOS device, follow these simple steps:
+To use Guess The Flag on your iOS device, follow these simple steps:
 
 1. Clone or download the project repository.
 2. Open the project in Xcode.
@@ -39,24 +39,23 @@ To use WeSplit on your iOS device, follow these simple steps:
 
 ## Usage 🚀
 
-Using WeSplit is straightforward:
+Using Guess The Flag is straightforward:
 
-1. Launch the WeSplit application on your iOS device.
-2. Enter the total bill amount.
-3. Select the number of people sharing the bill using the provided picker.
-4. Choose a tip percentage from the segmented control or leave it at 0% if no tip is desired.
-5. View the calculated amount owed by each person in the "Final" section.
+1. Launch the Guess The Flag application on your iOS device.
+2. Start guessing flags from the given options.
+3. Receive immediate feedback on your guess.
+4. Learn interesting facts about each country's flag as you play.
 
 ## Contributing 🤝
 
-WeSplit is an open-source project, and contributions are welcome! If you'd like to contribute to the project, follow these steps:
+Guess The Flag is an open-source project, and contributions are welcome! If you'd like to contribute to the project, follow these steps:
 
 1. Fork the repository and create your branch.
 2. Make your changes and ensure the code follows the project's style guidelines.
 3. Test your changes thoroughly.
 4. Submit a pull request detailing the changes you've made.
 
-If you encounter any issues or bugs while using WeSplit, please feel free to contact me. I'll ensure they are addressed promptly.
+If you encounter any issues or bugs while using Guess The Flag, please feel free to contact me. I'll ensure they are addressed promptly.
 
 ## Contact Me 📧
 
@@ -65,5 +64,4 @@ If you have any questions, feedback, or suggestions, feel free to reach out to m
 ## License 📄
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT), which means you're free to use, modify, and distribute the code as you see fit.
-
 
